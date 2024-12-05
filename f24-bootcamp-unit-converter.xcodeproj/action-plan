@@ -1,0 +1,55 @@
+1.Goal is clearly defined and includes three bullet points, ~2-3 sentences each.
+2.Tasks are clearly defined for each month.
+3.Extra resources nicely defined throughout.
+
+
+Q1: What is the main goal of the code?
+The goal of the code is to create a volume unit converter app** that allows users to input a value, choose a unit (e.g., mL, Liters, Cups, etc.), and convert it to another unit. It dynamically calculates and displays the converted value.
+
+Q2: How does the app handle input and output?
+- Input:
+  - Users input a numeric value in the `TextField`.
+  - They select the input unit via a segmented `Picker`.
+- Output:
+  - The app calculates the converted value based on the selected units.
+  - The result is displayed in the "Output" section using `Text`.
+
+Q3: What units does the app support, and how are conversions handled?
+The app supports five units:
+1. Milliliters (mL)
+2. Liters
+3. Cups
+4. Pints
+5. Gallons
+
+-Conversions are performed using a helper variable `inputUnitToMilliliter`, which normalizes the input value to milliliters. The normalized value is then converted to the desired unit using another helper variable `outputValue`.
+
+- Conversion Factors (to/from mL):**
+  - 1 Liter = 1000 mL
+  - 1 Cup = 236.588 mL
+  - 1 Pint = 473.176 mL
+  - 1 Gallon = 3785.41 mL
+
+
+
+Q4: How does the code ensure a smooth user experience?
+1. Dynamic Updates:**
+   - Conversion happens automatically as users change input or select units.
+2. Segmented Picker:**
+   - Ensures intuitive unit selection.
+3. Live Preview (`#Preview`):**
+   - Provides quick feedback during development for UI adjustments.
+
+
+
+Q5: What could be improved or added?
+1. Features:
+   - Add more units (e.g., quarts, tablespoons, teaspoons).
+   - Provide an option to handle custom units or scaling factors.
+2. Accessibility:
+   - Add voice-over support for visually impaired users.
+3. Error Handling:
+   - Show alerts or warnings for invalid input, such as negative numbers or non-numeric values.
+
+Learned to code in Swift by using CodeAcademy and attending AppCarolina meetings.
+I also want to take the time to say I will continue to work on this project during christmas breakk to add more and better feutures.
