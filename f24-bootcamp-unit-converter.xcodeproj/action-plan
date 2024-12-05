@@ -51,5 +51,10 @@ Q5: What could be improved or added?
 3. Error Handling:
    - Show alerts or warnings for invalid input, such as negative numbers or non-numeric values.
 
-Learned to code in Swift by using CodeAcademy and attending AppCarolina meetings.
+Extra Resources Used in Development
+Codeacademy:
+Codeacademy provided a comprehensive introduction to Swift and SwiftUI, covering fundamental concepts such as state management, navigation stacks, and UI components like Picker and Form. The platform's interactive lessons helped solidify my understanding of Swift syntax and logic.
+AppCarolina:
+This resource introduced me to practical app-building techniques specific to iOS development. I learned how to integrate user inputs, use @State for reactive data handling, and structure my app for dynamic previews during development.
+
 I also want to take the time to say I will continue to work on this project during christmas breakk to add more and better feutures.
