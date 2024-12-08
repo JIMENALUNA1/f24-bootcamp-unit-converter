@@ -1,3 +1,40 @@
+Plan for 6 Months: Developing My Swift Project
+Month 1: Learning the Basics of Swift
+- Objective: Gain foundational knowledge of Swift programming.
+- Actions Taken:  
+  - Enrolled in Codecademy's Swift programming course and dedicated 5-7 hours weekly to complete lessons and exercises.  
+  - Set up Xcode on my computer to get familiar with the development environment.  
+  - Practiced basic concepts like variables, data types, loops, and conditionals by building small programs (e.g., a simple calculator).
+
+Month 2: Joining App Carolina and Practical Application
+- Objective: Begin applying my Swift knowledge in collaborative environments.  
+- Actions Taken:  
+  - Joined the App Carolina Switf tutorial to practice building apps in Swift and collaborate with peers on small projects.  
+  - Focused on understanding how to create simple user interfaces (UIs) in SwiftUI.  
+  Month 3: Exploring SwiftUI and Figma for UI/UX Design 
+  - Started designing app layouts using Figma, focusing on user-centered design principles.  
+  - Built mockups for app screens to visualize how the app would look and function.  
+  - Experimented with SwiftUI to convert Figma designs into interactive app prototypes.  
+
+Month 4: Deepening Knowledge Through YouTube and Practice**
+- Objective: Gain deeper insights and hands-on experience by learning from experts.  
+- Actions Taken:  
+  - Watched advanced Swift tutorials on YouTube to explore topics like navigation, data persistence, and animations.  
+  - Practiced building mini-projects (e.g., a to-do list app) to reinforce learning.  
+  
+Month 5: Refining Swift Skills 
+Objective: Enhance coding skills and polish the project  
+  - Worked on incorporating suggested improvements and debugging my project.  
+  - Began reading Swift documentation to understand advanced concepts like Combine and CoreData for app functionality.  
+
+Month 6: Completing and Polishing the Project**
+- Objective**: Finalize the project and prepare it for potential users.   
+  - Tested the project extensively for bugs and optimized its performance.  
+  - Documented the development process and created a presentation to showcase my project to class.
+
+This structured approach helped me successfully learn Swift, collaborate on app development, and create a polished app project within six months! 🚀
+
+
 1.Goal is clearly defined and includes three bullet points, ~2-3 sentences each.
 2.Tasks are clearly defined for each month.
 3.Extra resources nicely defined throughout.
